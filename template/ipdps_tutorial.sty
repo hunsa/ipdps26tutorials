@@ -1,0 +1,41 @@
+\RequirePackage{xspace}
+\RequirePackage{xcolor}
+\RequirePackage{tagging}
+
+%\definecolor{colsample}{gray}{0.45}
+\definecolor{colexpl}{rgb}{0.4, 0.6, 0.8}
+
+
+
+\newenvironment{tutpresenters}{%
+\subsection*{Presenters}%
+\begin{enumerate}}%
+{\end{enumerate}}
+
+\newcommand{\tutpresenter}[3]{%
+\item Presenter: #1, #2, #3%
+}
+
+\newcommand{\tutleadpresenter}[3]{%
+\item Lead Presenter: #1, #2, #3%
+}
+
+\newcommand{\tuttitle}[1]{
+\subsection*{Tutorial Title}%
+\textbf{#1}%
+}
+
+\newcommand{\tutexpl}[1]
+{\tagged{explanation}{{\textcolor{colexpl}{\# #1}}}}
+
+\newcommand{\tutsection}[1]
+{\section{#1}}
+
+\newcommand{\tutpart}[2]%
+{%
+\subsection*{#1}
+#2}
+
+\newcommand{\tutbio}[2]%
+{\subsection*{Biography (#1):}
+#2}
