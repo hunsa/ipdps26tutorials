@@ -20,7 +20,7 @@ A tutorial can be either a half-day (3 hours) or a full-day (6 hours) session.
 
 ## Submission Guidelines
 
-A LaTeX template for the tutorial proposal is available at: [IPDPS 26 Tutorial Proposal Template](https://github.com/hunsa/ipdps26tutorials/template).
+A LaTeX template for the tutorial proposal is available at: [IPDPS 26 Tutorial Proposal Template](https://github.com/hunsa/ipdps26tutorials/tree/main/template).
 
 Key sections to include in your proposal:
 - **Title**
