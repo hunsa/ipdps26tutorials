@@ -27,16 +27,13 @@ Key sections to include in your proposal:
 - **Duration** (half-day or full-day)
 - **Abstract** (up to 200 words)
 - **Description** (up to 2 pages)
-  - *Target Audience*, what is the expected background of attendees
-  - *Goals*, what are the main learning objectives
-  - *Content*, what topics will be covered
-  - *Structure*, how will the tutorial be delivered (e.g., lecture, hands-on)
-  - *Schedule*, a breakdown of the tutorial into sections with estimated time for each
-  - *Pre-requisites*, what prior knowledge is expected from attendees and what do they need to bring (e.g., laptop)
+  - *Goals*: the main learning objectives and the topics to be covered 
+  - *Structure*: the format of delivery (e.g., lecture, hands-on exercises)
+  - *Schedule*: a section-by-section breakdown with estimated time allocation
+  - *Pre-requisites*: the prior knowledge expected from attendees and required materials (e.g., laptop)
   
 ## Presenter Information
 
-- Provide a list of all presenters, including their names, affiliations, email addresses
-  
-- For each presenter, include a
-brief biography (up to 200 words each) and short description of their expertise in the tutorial topic
+- List all presenters with name, affiliation, and email address
+- Designate one lead presenter as the primary contact for correspondence  
+- Provide a brief biography for each presenter (up to 200 words) highlighting their expertise in the tutorial topic
