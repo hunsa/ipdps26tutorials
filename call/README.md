@@ -12,7 +12,9 @@ The 40th IEEE International Parallel and Distributed Processing Symposium (IPDPS
 
 ## Topics
 
-Topics of interest follow those in the [IPDPS 2026 - Call for Papers](https://www.ipdps.org/ipdps2026/2026-call-for-papers.html).
+Topics of interest follow those in the [IPDPS 2026 - Call for Papers](https://www.ipdps.org/ipdps2026/2026-call-for-papers.html), i.e., all aspects of parallel and distributed computing, including but not limited to: algorithms, applications, architectures, machine learning and artificial intelligence, measurements and experiments, programming models, and system software.
+
+We particularly invite tutorials on best practices, tools, and techniques for conducting research in parallel and distributed computing, i.e., reproducibility and replicability of research results, open science, open source software, and open data.
 
 ## Format
 
