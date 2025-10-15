@@ -10,6 +10,10 @@ The 40th IEEE International Parallel and Distributed Processing Symposium (IPDPS
 - Handout/Slides (available): May 4, 2026
     - Handouts/slides will be made available to registered attendees on the conference website.
 
+## IPDPS 2026 TUTORIALS CO-CHAIRS
+- Sascha Hunold, TU Wien, Austria
+- Swann Perarnau, Argonne National Laboratory, USA 
+
 ## Topics
 
 Topics of interest follow those in the [IPDPS 2026 - Call for Papers](https://www.ipdps.org/ipdps2026/2026-call-for-papers.html), i.e., all aspects of parallel and distributed computing, including but not limited to: algorithms, applications, architectures, machine learning and artificial intelligence, measurements and experiments, programming models, and system software.
