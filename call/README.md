@@ -35,9 +35,7 @@ Key sections to include in your proposal:
   - *Structure*: the format of delivery (e.g., lecture, hands-on exercises)
   - *Schedule*: a section-by-section breakdown with estimated time allocation
   - *Pre-requisites*: the prior knowledge expected from attendees and required materials (e.g., laptop)
-  
-## Presenter Information
-
-- List all presenters with name, affiliation, and email address
-- Designate one lead presenter as the primary contact for correspondence  
-- Provide a brief biography for each presenter (up to 200 words) highlighting their expertise in the tutorial topic
+- **Presenter Information**
+  - List all presenters with name, affiliation, and email address
+  - Designate one lead presenter as the primary contact for correspondence  
+  - Provide a brief biography for each presenter (up to 200 words) highlighting their expertise in the tutorial topic
